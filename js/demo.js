@@ -32,7 +32,7 @@ $(document).ready(function() {
 		break;
 	  case 3:
 		str =
-		  'Chúc mừng năm mới Canh Tý 2020. Chúc năm mới sức khỏe dẻo dai, công việc thuận lợi thăng tiến dài dài, phi những nước đại tiến tới thành công';
+		  'Chúc mừng năm mới Tân Sửu 2021. Chúc năm mới sức khỏe dẻo dai, công việc thuận lợi thăng tiến dài dài, phi những nước đại tiến tới thành công';
 		break;
 	  case 4:
 		str =
